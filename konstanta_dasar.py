@@ -1,0 +1,4 @@
+PI = 3.14159
+JUMLAH_HARI = 7
+print(PI)
+print(JUMLAH_HARI)
