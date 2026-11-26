@@ -1,0 +1,5 @@
+f = open("data.txt", "w")
+f.write("Rahma\n")
+f.write("Jeruk 8\n")
+f.close()
+print("Berhasil menulis data.txt")
