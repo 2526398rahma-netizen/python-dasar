@@ -1,0 +1,13 @@
+jeruk = 8
+jeruk += 2
+print("Setelah += 2:", jeruk)
+jeruk -= 3
+print("Setelah -= 3:", jeruk)
+jeruk *= 2
+print("Setelah *= 2:", jeruk)
+jeruk //= 4
+print("Setelah //= 4:", jeruk)
+jeruk **= 2
+print("Setelah **= 2:", jeruk)
+jeruk %= 4
+print("Setelah %= 4:", jeruk)
